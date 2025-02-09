@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaoyuChen37&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--
+
 ## 🚀 Research Focus
 - **Core Direction**: Non-learning robotic systems (Hardware-Algorithm Co-design)
 - **Current Projects**:  
-  🔥 Swarm Communication Protocol (IROS 2024/RAL)  
-  🛠️ LLM-based Real-time Control Framework (GitHub Stars: 120+)
-
+  🔥 Multi-robots Swarm (IROS 2025/RAL)  
+  🛠️ LLM-based Control Framework 
+<!--
 ## 📜 Publications
 | Title | Conference | Status | Code |
 |-------|------------|--------|------|
@@ -29,4 +29,7 @@ Here are some ideas to get you started:
 -->
 ## 🛠️ Tech Stack
 ![ROS](https://img.shields.io/badge/ROS2-Humble-blue?logo=ros)
-![Python](https://img.shields.io/badge/Gazebo-11-9cf?logo=python)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-F15A2B?logo=matlab&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-4478C3?logo=verilog&logoColor=white)
