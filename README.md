@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 | Bearing-Only... | ICRA 2024 | Rejected (Reviewer#1: Novelty acknowledged) | [Code](链接) |
 -->
 ## 🛠️ Tech Stack
-![ROS](https://img.shields.io/badge/ROS2-Humble-blue?logo=ros)
+![ROS](https://img.shields.io/badge/ROS-Noetic-blue?logo=ros)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-F15A2B?logo=matlab&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
