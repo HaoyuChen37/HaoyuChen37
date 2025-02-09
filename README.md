@@ -14,5 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HaoyuChen37&count_private=true&hide=stars,prs,issues&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaoyuChen37&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+## 🚀 Research Focus
+- **Core Direction**: Non-learning robotic systems (Hardware-Algorithm Co-design)
+- **Current Projects**:  
+  🔥 Swarm Communication Protocol (IROS 2024/RAL)  
+  🛠️ LLM-based Real-time Control Framework (GitHub Stars: 120+)
+
+## 📜 Publications
+| Title | Conference | Status | Code |
+|-------|------------|--------|------|
+| Bearing-Only... | ICRA 2024 | Rejected (Reviewer#1: Novelty acknowledged) | [Code](链接) |
+-->
+## 🛠️ Tech Stack
+![ROS](https://img.shields.io/badge/ROS2-Humble-blue?logo=ros)
+![Python](https://img.shields.io/badge/Gazebo-11-9cf?logo=python)
